@@ -2,3 +2,4 @@
 
 print("hello git")
 print("测试")
+print("test2")
